@@ -1083,7 +1083,9 @@
         "name": "SediK",
         "country": "ru",
         "avatar": "0",
-        "records": [],
+        "records": [
+            "Leyak"
+        ],
         "verified": []
     }
 ]
