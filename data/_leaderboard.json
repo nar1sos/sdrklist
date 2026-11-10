@@ -728,11 +728,7 @@
             "Digital Descent",
             "Artificial Ascent",
             "Carnage Mode",
-            "Reaper Lair",
-            {
-                "levelName": "RUST",
-                "percent": 68
-            }
+            "Reaper Lair"
         ],
         "verified": [
             "Reaper Lair"
