@@ -36,6 +36,15 @@
         "records": []
     },
     {
+        "name": "Kyoto",
+        "author": "MadisonYuko",
+        "verifier": "Scotchtape",
+        "ytid": "",
+        "thumbnail": "https://thumbnails.demonlist.org/classic/3338.webp",
+        "percentToQualify": 100,
+        "records": []
+    },
+    {
         "name": "Tartarus",
         "author": "Riot",
         "verifier": "Dolphy",
